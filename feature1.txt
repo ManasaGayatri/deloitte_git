@@ -1,4 +1,4 @@
 Hi
-THis is a trail.
+This is a trail.
 I am about to modify this file
 And then I am about to commit.
